@@ -14,14 +14,14 @@ I'm a **Software Development Engineer** at SAP Labs (Bengaluru), with 1.5+ years
 - Data structures & algorithms (LeetCode regular!)
 - Delivering real-world impact
 
-Previously, I interned at Salesforce, where I contributed to production-grade solutions and embraced agile development.
+Previously, I interned at **Salesforce** as a **Software Developer Intern**, where I contributed to production-grade solutions and embraced agile development.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frameworks:** Spring Boot, ReactJS  
-**Languages:** Java, JavaScript, TypeScript, SQL, Bash  
+**Languages:** Java, JavaScript, TypeScript, Python, SQL, Bash  
 **Databases:** MySQL, Postgres, HANA Cloud, Redis  
 **Tools:** IntelliJ, VS Code, Docker, Maven, Git, GitHub, JIRA, Insomnia, Postman  
 **Cloud/Infra:** AWS, Azure, GCP  
