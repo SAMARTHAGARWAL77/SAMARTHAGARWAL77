@@ -32,7 +32,7 @@ Previously, I interned at **Salesforce** as a **Software Developer Intern**, whe
 ### 🌟 Favorite Projects
 
 - [E-commerce](https://github.com/SAMARTHAGARWAL77/E-commerce)  
-  *A scalable e-commerce backend with using KeyStone, typeScript, and robust system design.*
+  *A scalable e-commerce backend built with Keystone, TypeScript, and GraphQL, featuring a robust system architecture, secure authentication mechanism, and a powerful admin UI.*
 
 - [Leetcode_EveryDay](https://github.com/SAMARTHAGARWAL77/leetcode_EveryDay)  
   *My daily grind: Data structures, algorithms, and solutions to interesting coding problems.*
