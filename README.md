@@ -14,7 +14,7 @@ I'm a **Software Development Engineer** at SAP Labs (Bengaluru), with 1.5+ years
 - Data structures & algorithms (LeetCode regular!)
 - Delivering real-world impact
 
-Previously, I interned at **Salesforce** as a **Software Developer Intern**, where I contributed to production-grade solutions and embraced agile development.
+Previously, I interned at **Salesforce** as a **Software Developer**, where I contributed to production-grade solutions and embraced agile development.
 
 ---
 
