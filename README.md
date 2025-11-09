@@ -31,6 +31,9 @@ Previously, I interned at **Salesforce** as a **Software Developer**, where I co
 
 ### 🌟 Favorite Projects
 
+- [openEvent](https://github.com/BITSSAP2025AugAPIBP3Sections/APIBP-20242YA-Team-4)  
+  *An open-source event management and ticketing platform built with Spring Boot, Core Java, React.js, TypeScript, and JavaScript. It enables organizers to create, publish, and manage events with scheduling, pricing, and capacity control, while attendees can browse, book, and review events. Features include secure authentication, authorization, and payment gateway integration.*
+
 - [E-commerce](https://github.com/SAMARTHAGARWAL77/E-commerce)  
   *A scalable e-commerce backend built with Keystone, TypeScript, and GraphQL, featuring a robust system architecture, secure authentication mechanism, and a powerful admin UI.*
 
@@ -67,4 +70,4 @@ Previously, I interned at **Salesforce** as a **Software Developer**, where I co
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> Code is like humor. When you have to explain it, it’s bad.
